@@ -1,0 +1,9 @@
+Enter the code in the Entry Menu from the title screen or the in-game menu.
+
+WALO 		: Reset all stats.
+ROSE 		: Play as Rose.
+FOLOSS 	: [CHeat] Acquire max money.
+SAYHOH 	: [CHeat] Acquire max health.
+KOLCHI 	: [CHeat] Acquire all items.
+PHANTOM 	: [CHeat] Allow passing through terrain.
+SPEEDY 	: [CHeat] Acquire max movement speed.

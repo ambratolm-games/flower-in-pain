@@ -1,15 +1,15 @@
 ######################################
 # Rapport d'erreur de Flower in Pain
 ######################################
-Crée le 07/03/24 13:56:08
+Crée le 07/05/24 05:12:54
 
 > Informations techniques :
  Liste des personnages présents :  (Niv. 1). 
- Bug produit sur la map '~START'
+ Bug produit sur la map 'OUTSIDE*'
 
 > Informations avancées :
-Scene : #<Scene_Name:0x4d1b100>
+Scene : #<Scene_Map:0x4e853a8>
 Description avancée de l'erreur :
-undefined method `name_actor=' for #<Game_Temp:0x4d6bfb0>
+
 
 # Généré par le script de Prévention des bug de Blockade - Version 1.1
