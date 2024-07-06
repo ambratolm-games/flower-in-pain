@@ -1,15 +1,15 @@
 ######################################
 # Rapport d'erreur de Flower in Pain
 ######################################
-Crée le 07/05/24 05:12:54
+Crée le 07/06/24 08:31:22
 
 > Informations techniques :
  Liste des personnages présents :  (Niv. 1). 
- Bug produit sur la map 'OUTSIDE*'
+ Bug produit sur la map '~END'
 
 > Informations avancées :
-Scene : #<Scene_Map:0x4e853a8>
+Scene : #<Scene_Map:0x4e8e280>
 Description avancée de l'erreur :
-
+Section100:224:in `start'undefined method `font' for #<Sprite:0x4e3e2e8>
 
 # Généré par le script de Prévention des bug de Blockade - Version 1.1
