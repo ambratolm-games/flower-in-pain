@@ -1,0 +1,16 @@
+######################################
+# Rapport d'erreur de Flower in Pain
+######################################
+Crée le 07/09/24 09:18:19
+
+> Informations techniques :
+ Liste des personnages présents :  (Niv. 1). 
+ Bug produit sur la map '~START'
+
+> Informations avancées :
+Scene : #<Scene_Map:0x4e653a0>
+Description avancée de l'erreur :
+Le ficher Graphics/Parallaxes/First Menu n'a pas été trouvé.
+
+
+# Généré par le script de Prévention des bug de Blockade - Version 1.1
