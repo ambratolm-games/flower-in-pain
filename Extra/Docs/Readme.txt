@@ -42,7 +42,7 @@ Operating System : Microsoft® Windows® 2000 / XP / Vista
                                    (Pentium® 4 2.0GHz or higher processor recommended) 
                   Memory : 256 MB or higher of RAM (512 MB or higher recommended) 
                    Display : 1024×768 or higher resolution 
-              Hard Disk : 100 MB of available hard-disk space 
+              Hard Disk : 200 MB of available hard-disk space 
 
 -Gamepad support:
 	
