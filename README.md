@@ -14,9 +14,9 @@ Flower in Pain is an enigmatic-adventure and puzzle game where you must unravel 
 - Releases :
   - ✨ **[2024]** v1.1 Beta (??? MB):
     - 🚧 _Download coming IC'A..._
-  - **[2014]** v1.0 Beta (182 MB) :
-    - 💾 **[Download](./Flower_in_Pain_v1.0_installer.exe)**
-    - 💾 **[Download (Google Drive)](https://drive.google.com/file/d/0B0DuWGurSUq_WGNucXNyREk5X00/view?usp=sharing&resourcekey=0-gPCcyFEouXam55XKSFXnIA "Download")**
+  - ⚠ ~~**[2014]** v1.0 Beta (182 MB) :~~
+    <!-- - ~~💾 **[Download](./Flower_in_Pain_v1.0_installer.exe)**~~ -->
+    - ~~💾 **[Download (Google Drive)](https://drive.google.com/file/d/0B0DuWGurSUq_WGNucXNyREk5X00/view?usp=sharing&resourcekey=0-gPCcyFEouXam55XKSFXnIA "Download")**~~
 
 ## 📓 Details
 
@@ -25,7 +25,7 @@ Flower in Pain is an enigmatic-adventure and puzzle game where you must unravel 
 - Platform : **Windows (32-bits)**
 - Language : **English**
 - First Release Date : **Septembre 2013**
-- Website: **[FlowerInPain.ga](https://flowerinpain.blogspot.com/p/flower-in-pain.html)**
+- Website: ~~**[FlowerInPain.ga](https://flowerinpain.blogspot.com/p/flower-in-pain.html)**~~
 
 ### 💻 System Requirements
 
@@ -80,5 +80,5 @@ The basic control scheme is based on a 6-button gamepad. For convenience, the bu
 ## :page_facing_up: License
 
 - &copy; 2011-2024 Ambratolm.
-- **[2024] v1.1** : Using Free to Use Third Party Content (See Credits). 😀
-- **[2014] v1.0** : Using Copyrighted Content (See Credits). 😱⚠🚨
+- **[2024] v1.1** : Using Free to Use Third Party Content (See [Credits](./Extra/Docs/Credits.txt)).
+- ⚠ ~~**[2014] v1.0** : Using Copyrighted Content (See [Old Credits](./Extra/Docs/Credits_old.txt)).~~ 😱🚨

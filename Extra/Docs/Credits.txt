@@ -1,5 +1,3 @@
-~FLOWER IN PAIN~
-
 <h>Game by
 Ambratolm
 
@@ -24,6 +22,7 @@ Berka
 DjLeChuck
 Deity 
 Zeus81
+Jet10985
 
 <h>Font
 Footlight MT Light
@@ -38,16 +37,9 @@ Dillon Becker
 <h>Music
 Udio.com
 Suno.com
-[ToDelete]Takanashi Yasuharu
-[ToDelete]Toshiro Masuda
-[ToDelete]Taniuchi Hideki
-[ToDelete]Nakagawa Koutarou
-[ToDelete]Toygar Isikli
-[ToDelete]Yoshihisa Hirano
-[ToDelete]Mark Mancina
 
 <h>Flower in Pain 
-2011 – 2014 
+2011 – 2024 
 Elhafid Games
 Ambratolm
 
