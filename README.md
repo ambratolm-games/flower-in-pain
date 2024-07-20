@@ -24,7 +24,7 @@ Flower in Pain is an enigmatic-adventure and puzzle game where you must unravel 
 - Type : **Action, Aventure, Puzzle, RPG**
 - Platform : **Windows (32-bits)**
 - Language : **English**
-- First Release Date : **Septembre 2013**
+- First Release Date : **September 2013**
 - Website: ~~**[FlowerInPain.ga](https://flowerinpain.blogspot.com/p/flower-in-pain.html)**~~
 
 ### 💻 System Requirements

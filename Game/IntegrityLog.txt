@@ -1,9 +1,0 @@
-------[PICTURE INTEGRITY]------
-
-------[TRANSFER INTEGRITY]------
-
-------[MUSIC INTEGRITY]------
-
-------[ITEM INTEGRITY]------
-
-------[ACTOR INTEGRITY]------
