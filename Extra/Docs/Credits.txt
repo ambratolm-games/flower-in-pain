@@ -27,13 +27,12 @@ Jet10985
 <h>Font
 Footlight MT Light
 
-<h>Graphics
-...
+<h> Sound
+Pixabay.com
 
 <h>Voice
 Elevenlabs.io
 Dillon Becker
-Pixabay.com
 
 <h>Music
 Udio.com
