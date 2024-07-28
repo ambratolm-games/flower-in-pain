@@ -12,8 +12,8 @@ Flower in Pain is an enigmatic-adventure and puzzle game where you must unravel 
 ## 💾 Download
 
 - Releases :
-  - ✨ **[2024]** v1.1 Beta (??? MB):
-    - 🚧 _Download coming IC'A..._
+  - ✨ **[2024]** v1.1 Beta (170 MB):
+    - 💾 **[Download (Itch.io)](https://ambratolm.itch.io/flower-in-pain)**
   - ⚠ ~~**[2014]** v1.0 Beta (182 MB) :~~
     <!-- - ~~💾 **[Download](./Flower_in_Pain_v1.0_installer.exe)**~~ -->
     - ~~💾 **[Download (Google Drive)](https://drive.google.com/file/d/0B0DuWGurSUq_WGNucXNyREk5X00/view?usp=sharing&resourcekey=0-gPCcyFEouXam55XKSFXnIA "Download")**~~
@@ -21,7 +21,7 @@ Flower in Pain is an enigmatic-adventure and puzzle game where you must unravel 
 ## 📓 Details
 
 - Title : **Flower in Pain**
-- Type : **Action, Aventure, Puzzle, RPG**
+- Type : **Aventure, Puzzle**
 - Platform : **Windows (32-bits)**
 - Language : **English**
 - First Release Date : **September 2013**
