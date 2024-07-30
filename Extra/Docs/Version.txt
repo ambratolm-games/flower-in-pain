@@ -1,0 +1,5 @@
+VALUE "FileDescription", "Flower in Pain"
+VALUE "FileVersion", "1.1.0"
+VALUE "LegalCopyright", "(C) 2013-2024 Elhafid Games @Ambratolm"
+VALUE "ProductName", "Flower in Pain"
+VALUE "ProductVersion", "1.1.0"
